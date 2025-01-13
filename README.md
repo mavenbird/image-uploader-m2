@@ -74,7 +74,8 @@ Tailor the file upload settings to match your store's needs with customizable te
 ![img4](./doc/images/2.png)
 ## Support:
 Dedicated support team available to assist with installation, customization, and any other queries or concerns.
-**[support@mavenbird.com](support@mavenbird.com)** 
+**[support@mavenbird.com](mailto:support@mavenbird.com)**
+
 
 ## Get Started:
 Enhance your Magento 2 store with the ability to support diverse file uploads directly in PageBuilder and Wysiwyg editor. Elevate the content management experience and drive customer satisfaction with our Magento 2 File Upload Permission Extension.

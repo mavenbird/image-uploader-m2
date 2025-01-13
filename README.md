@@ -2,8 +2,6 @@
 
 Enhance your Magento 2 store's functionality by enabling customers to upload SVG and WEBP files seamlessly. This extension integrates directly with PageBuilder and other key areas of your store to streamline content management and improve user engagement.
 
-**[Image Upload extension for Magento 2](https://mavenbird.com/magento-2-image-upload-permission-extension)** 
-
 ## Key Features:
 
 - **Supported File Types:** 

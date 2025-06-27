@@ -78,7 +78,7 @@ class Upload extends \Magento\Backend\App\Action implements HttpPostActionInterf
         \Magento\Framework\File\UploaderFactory $uploaderFactory,
         DirectoryList $directoryList,
         \Magento\Cms\Helper\Wysiwyg\Images $cmsWysiwygImages,
-        Filesystem $filesystem = null
+        ?Filesystem $filesystem = null
     ) {
         $this->resultJsonFactory = $resultJsonFactory;
         $this->storeManager = $storeManager;
